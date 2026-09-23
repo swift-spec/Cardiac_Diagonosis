@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+[Try the Cardiac Risk Prediction App](https://cardiacdiagonosis-4wf742qpahmmcjfssrdfzx.streamlit.app/)
+
 # Cardiac Disease Prediction
 
 A machine learning classification project that predicts the target class using patient-related clinical features.
